@@ -9,7 +9,7 @@ Team 6
 2. Evan Mahathirath [@evanmahathirath](https://github.com/emahathirath/MIST-4610-Group-Project-2) 
 3. Tarita Jakobs [@taritajakobs](https://github.com/TaritaJakobs/MIST-4610-Group-Project-2)
 4. Mia Townsend [@miatownsend](https://github.com/MiaGTownsend/MIST4610-GroupProject2-Storms) 
-5. Krysta Schwab [@krystaschwab](https://github.com/krystaschwab/MIST4610_Krysta_Schwab_GroupPorject2)
+5. Krysta Schwab [@krystaschwab](https://github.com/krystaschwab/MIST4610-KrystaSchwab-GroupProject2-Storms)
 
 ## Dataset
 The dataset is from https://data.gov/, an open resource for data about the United States. It contains information about storms and severe weather in the United States in 2023. It has 53977 rows and 51 columns. The data types of each column range from strings to numerical values, as well as date-time data types. Some columns are event type(hurricane, tornado, etc.), state, month, number of fatalities, and property damage.
@@ -36,15 +36,13 @@ The significance of this question would be for the use of updating compliance co
 
 ![D4A8E24A-255F-45B2-B186-3A680F8F977E_1_201_a](https://github.com/user-attachments/assets/ebef30c7-701f-4750-993a-34659c5de630)  
 
+
 The graph shows property damage on the x-axis and property damage on the y-axis. Each dot is a storm. After drawing a line of regression, we got an R-square of .29 and a p-value of <.0001, showing the significance of the date and proving a correlation between property damage and number of fatalities. Therefore, we can prove that there is a positive relationship between deaths and property damage, showing that an increase in property damage can lead to an increase in fatalities during natural disasters.
 
 ## Data Manipulations
 Our dataset consists of two tables: storm details and storm fatalities. We joined them together to acquire more data and show the severity of the natural disasters. The storm fatality consists of data about fatalities of the storm while storm details contain general information about the storms, like the type and location. Additionally, we created a calculated field to change the column "Property damage" from a string to a numeric data type so we can use it to conduct our analysis.
 
-Calculated Field:
-![alt text](https://github.com/emahathirath/MIST-4610-Group-Project-2/blob/main/PNG%20image.jpeg)
-
 ## Tableau Packaged Workbook
-
+[Tableau Workbook](https://github.com/TaritaJakobs/MIST-4610-Group-Project-2/blob/main/MIST4610_Group6.twbx)
 ## Slide Presentation
 [Presentation](https://docs.google.com/presentation/d/1B46KUGu4pRxniZi-3Z1cxYYDa6x0bsMjXq1WEiI80h0/edit?usp=sharing)
