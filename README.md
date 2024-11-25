@@ -12,7 +12,7 @@ Team 6
 5. Krysta Schwab [@krystaschwab]()
 
 ## Dataset
-
+The dataset is from https://data.gov/, an open resource for data about the United States. It contains information about storms and severe weather in the United States in 2023. It has 53977 rows and 51 columns. The data types of each column range from strings to numerical values, as well as date-time data types. Some columns are event type(hurricane, tornado, etc.), state, month, number of fatalities, and property damage.
 
 
 ## Question 1 and Significance
@@ -28,6 +28,7 @@ Is there a correlation between fatalities and the amount of property damage a st
 ## Question 2 Results and Analysis
 
 ## Data Manipulations
+Our dataset consists of two different tables. that being storm details and storm fatalities. We joined them together to acquire more data and show the severity of the natural disasters. The storm fatality consists of data about fatalities of the storm while storm details contain general information about the storms, like the type and location. Additionally, we created a calculated field to change the column "Property damage" from a string to a numeric data type so we can use it to conduct our analysis.
 
 ## Tableau Packaged Workbook
 
