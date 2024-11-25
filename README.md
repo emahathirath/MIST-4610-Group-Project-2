@@ -9,7 +9,7 @@ Team 6
 2. Evan Mahathirath [@evanmahathirath](https://github.com/emahathirath/MIST-4610-Group-Project-2) 
 3. Tarita Jakobs [@taritajakobs](https://github.com/TaritaJakobs/MIST-4610-Group-Project-2)
 4. Mia Townsend [@miatownsend](https://github.com/MiaGTownsend/MIST4610-GroupProject2-Storms) 
-5. Krysta Schwab [@krystaschwab](https://github.com/krystaschwab/MIST4610-KrystaSchwab-GroupProject2-Storms)
+5. Krysta Schwab [@krystaschwab](https://github.com/krystaschwab/MIST4610_Krysta_Schwab_GroupPorject2)
 
 ## Dataset
 The dataset is from https://data.gov/, an open resource for data about the United States. It contains information about storms and severe weather in the United States in 2023. It has 53977 rows and 51 columns. The data types of each column range from strings to numerical values, as well as date-time data types. Some columns are event type(hurricane, tornado, etc.), state, month, number of fatalities, and property damage.
@@ -24,7 +24,7 @@ The question is significant because it would be important for insurance companie
 
 ![image](https://github.com/user-attachments/assets/9db77086-fd23-4805-bc59-558952e80ee6) 
 
-This map shows the sum of damage in each state in tornado alley, showing that there is significant damage in this region, and the three states with the most significant damage with Mississippi having 1.5 billion dollars, Arkansas having 700,000, and Tennessee having 414,000 which is significantly higher than the other states. Furthermore, Tornado Alley has been shifting eastward in the past couple of decades to states such as Mississippi, Tennessee, and Alabama, which all showed significant damage, while states that were in the historic tornado alley like North Dakota and South Dakota had no damage. This reinforces the idea of the shift of Tornado Alley. 
+This map shows the sum of damage in each state in tornado alley, showing that there is significant damage in this region, and the three states with the most significant damage with Mississippi having 1.5 billion dollars, Arkansas having 700,000, and Tennessee having 414,000 which is significantly higher than the other states. Furthermore, Tornado Alley has been shifting eastward in the past couple of decades to states such as Mississippi, Tennessee and Alabama, which all showed significant damage, while states that were in the historic tornado alley like North Dakota and South Dakota had no damage. This reinforces the idea of the shift of Tornado Alley. 
 
 
 ## Question 2 and Significance
@@ -40,6 +40,9 @@ The graph shows property damage on the x-axis and property damage on the y-axis.
 
 ## Data Manipulations
 Our dataset consists of two tables: storm details and storm fatalities. We joined them together to acquire more data and show the severity of the natural disasters. The storm fatality consists of data about fatalities of the storm while storm details contain general information about the storms, like the type and location. Additionally, we created a calculated field to change the column "Property damage" from a string to a numeric data type so we can use it to conduct our analysis.
+
+Calculated Field:
+![alt text](https://github.com/emahathirath/MIST-4610-Group-Project-2/blob/main/PNG%20image.jpeg)
 
 ## Tableau Packaged Workbook
 
