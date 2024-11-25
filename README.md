@@ -24,7 +24,7 @@ The question is significant because it would be important for insurance companie
 
 ![image](https://github.com/user-attachments/assets/9db77086-fd23-4805-bc59-558952e80ee6) 
 
-This map shows the sum of damage in each state in tornado alley, showing that there is significant damage in this region, and the three states with the most significant damage with Mississippi having 1.5 billion dollars, Arkansas having 700,000, and Tennessee having 414,000 which is significantly higher than the other states. Furthermore, Tornado Alley has been shifting eastward in the past couple of decades to states such as Mississippi, Tennessee and Alabama, which all showed significant damage, while states that were in the historic tornado alley like North Dakota and South Dakota had no damage. This reinforces the idea of the shift of Tornado Alley. 
+This map shows the sum of damage in each state in tornado alley, showing that there is significant damage in this region, and the three states with the most significant damage with Mississippi having 1.5 billion dollars, Arkansas having 700,000, and Tennessee having 414,000 which is significantly higher than the other states. Furthermore, Tornado Alley has been shifting eastward in the past couple of decades to states such as Mississippi, Tennessee, and Alabama, which all showed significant damage, while states that were in the historic tornado alley like North Dakota and South Dakota had no damage. This reinforces the idea of the shift of Tornado Alley. 
 
 
 ## Question 2 and Significance
